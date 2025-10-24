@@ -158,5 +158,3 @@ def predict(file_path):
 
 # Example usage
 print("Prediction:", predict(test_df.iloc[0]["file_path"]))
-
-summa code lam paru da
